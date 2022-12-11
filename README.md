@@ -22,7 +22,7 @@
 | Code Reusablity | 3 | Implemented the DRY method in an acceptable manner. |
 | Maintainablity  | 4 | The program is implemented based on OOP Principles. Debugging is less challenging than usual programs. |
 | Scalability | 3 | Program can handle immediate changes or update of feauture add-ons |
-| Execution | 4 | Handling of errors are remarkly done by using try catch exception. |
+| Execution | 3 | Program works completely as intended and declared. Errors are handled properly. |
 | Originality | 3 | Concept is quite similar to some samples since the topic or features used is common. |
 | Overall Impression | 4 | The program or app runs smoothly without noticeable bugs or errors. |
 
