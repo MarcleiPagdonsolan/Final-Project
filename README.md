@@ -29,6 +29,8 @@
 # To run:
 * Open the Marctube.py file to start program.
 * You use pycharm to run this program.
+* Then click the runtime of the program.
+
 
 # Creators of this project:
 * Pagdonsolan, Marclei, D.
