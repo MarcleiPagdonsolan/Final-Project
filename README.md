@@ -13,6 +13,19 @@
 
 * Module Used - Tkinter()-It is a standard Python interface to the Tk GUI toolkit shipped with Python. Python with tkinter outputs the fastest and easiest way to create the GUI applications. Creating a GUI using tkinter is an easy task.
 
+# UML - Unified Modeling Language
+![alt text](https://github.com/MarcleiPagdonsolan/Final-Project/blob/main/UML.png "UML DIAGRAM")
+
+# Self-Assessment
+| Metric        | Score           | Description |
+| :-----------: |:-------------:| :----:|
+| Code Reusablity | 3 | Implemented the DRY method in an acceptable manner. |
+| Maintainablity  | 4 | The program is implemented based on OOP Principles. Debugging is less challenging than usual programs. |
+| Scalability | 3 | Program can handle immediate changes or update of feauture add-ons |
+| Execution | 4 | Handling of errors are remarkly done by using try catch exception. |
+| Originality | 3 | Concept is quite similar to some samples since the topic or features used is common. |
+| Overall Impression | 4 | The program or app runs smoothly without noticeable bugs or errors. |
+
 # To run:
 * Open the Marctube.py file to start program.
 * You use pycharm to run this program.
