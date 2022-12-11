@@ -25,7 +25,7 @@ def confirm_URL():
 
     # Create Object to hold the URL
     global yt
-    yt = YouTube(url)
+    yt = MarcTube(url)
     print(yt.title)
 
     # Get the Quality of the Videos and store in the 'videos' variable
@@ -65,7 +65,7 @@ root.configure(bg="#B2BEB5")
 root.resizable(False, False)
 
 # Set Labels
-headLabel = Label(root, bg="#B2BEB5", fg="#8C0000", text="PyTube", font=("Rockwell", 30)).grid(row=0, column=1, padx=10,
+headLabel = Label(root, bg="#B2BEB5", fg="#8C0000", text="MarcTube", font=("Rockwell", 30)).grid(row=0, column=1, padx=10,
                                                                                                pady=10)
 urlLabel = Label(root, bg="#B2BEB5", text="URL:", font=("Verdana", 13)).grid(row=1, column=0, padx=10, pady=10)
 qualityLabel = Label(root, bg="#B2BEB5", text="SELECT QUALITY", font=("Verdana", 13)).grid(row=2, column=0, padx=10,
