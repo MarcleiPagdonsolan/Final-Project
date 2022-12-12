@@ -26,12 +26,16 @@
 | Originality | 3 | Concept is quite similar to some samples since the topic or features used is common. |
 | Overall Impression | 4 | The program or app runs smoothly without noticeable bugs or errors. |
 
-#DEMO VIDEO
-* (https://www.youtube.com/watch?v=Hc79sDi3f0U)
+# DEMO VIDEO WITH INSTRUCTION
+<p align = "center"><a href="https://youtu.be/irzeqUksBPU" target="_blank"><img src="https://github.com/MarcleiPagdonsolan/Final-Project/blob/main/thumb.png"alt="Presentation Vid" width="300" height="300" border="10" /></p></a>
+
 # To run:
 * Open the Marctube.py file to start program.
 * You use pycharm to run this program.
 * Then click the runtime of the program.
+
+# PROGRAM LANGUAGES AND TOOLS
+<p align="left"> <a href="https://www.jetbrains.com/company/brand/" target="_blank" rel="noreferrer"> <img src="https://github.com/MarcleiPagdonsolan/Final-Project/blob/main/IMG/JET%20Brains.jpg" alt="javascript" width="100" height="100"/> </a> <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/MarcleiPagdonsolan/Final-Project/blob/main/IMG/Phycharm.png" alt="python" width="100" height="100"/> </a> </p>
 
 
 # Creators of this project:
